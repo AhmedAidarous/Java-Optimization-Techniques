@@ -50,6 +50,10 @@ The following is a list of the basic collections that can be used in Java with t
 • Tree Sets<br>
 • Hash Maps<br>
 • Tree Maps<br>
+<br>
+
+![image](https://user-images.githubusercontent.com/47617364/130433182-a22c9f74-cd6a-43e1-a572-63c53f6eaba2.png)
+
 
 
 ## Using ArrayLists Instead of LinkedLists
